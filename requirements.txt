@@ -1,6 +1,5 @@
 streamlit 
 altair
 pandas 
-plotly
 numpy
 matplotlib
